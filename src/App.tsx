@@ -143,7 +143,7 @@ function App() {
         <div className="absolute inset-0 bg-gradient-to-r from-purple-800/20 to-pink-800/20 animate-pulse"></div>
         <div className="text-center z-10 px-6 animate-in">
           <div className="mb-8 relative">
-        <div className="w-48 h-48 mx-auto rounded-full bg-gradient-to-r from-purple-500 to-pink-500 p-1 animate-spin-slow">
+        <div className="w-48 h-48 mx-auto rounded-full bg-gradient-to-r from-purple-500 to-pink-500 p-1">
           <div className="w-full h-full rounded-full bg-gray-900 flex items-center justify-center">
             <img 
           src="profile.jpg" 
