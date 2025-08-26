@@ -82,7 +82,7 @@ function App() {
     {
       title: 'Food delivery Application',
       description: 'Full-stack food delivery applicaton , its a restaurant based app. solution with React, Node.js. Features include real-time inventory, payment processing, and admin dashboard.',
-      image: './public/food.png',
+      image: 'food.png',
       tags: ['React', 'Node.js', 'MongoDB', 'Express.js'],
       github: 'https://github.com/sumanth44/sarvi.git',
       live: 'https://example.com'
@@ -90,7 +90,7 @@ function App() {
     {
       title: 'Dynamic, Editable Website Template Generator',
       description: 'ContentQL is a platform that empowers developers to create, customize, and share dynamic website themes effortlessly. It features a user-friendly interface for theme customization, real-time previews, and a library of pre-built components.',
-      image: './public/vnr.jpg',
+      image: 'vnr.jpg',
       tags: ['React.js', 'TypeScript', 'Prisma', 'FalAPI'],
       github: 'https://github.com/sumanth44/VNR-DESIGN-A-THON25.git',
       live: 'https://example.com'
@@ -98,7 +98,7 @@ function App() {
     {
       title: 'Cooking book',
       description: ' A comprehensive cooking book application that allows users to explore, create, and share recipes. It features a user-friendly interface, recipe categorization, and a community-driven platform for sharing culinary creations.',
-      image: './public/cooking.webp',
+      image: 'cooking.webp',
       tags: ['HTML', 'CSS', 'JavaScript'],
       github: 'https://github.com',
       live: 'https://sumanth44.github.io/Cookingbook/'
@@ -146,7 +146,7 @@ function App() {
         <div className="w-48 h-48 mx-auto rounded-full bg-gradient-to-r from-purple-500 to-pink-500 p-1 animate-spin-slow">
           <div className="w-full h-full rounded-full bg-gray-900 flex items-center justify-center">
             <img 
-          src="./public/profile.jpg" 
+          src="profile.jpg" 
           alt="Profile" 
           className="w-44 h-44 rounded-full object-cover"
             />
